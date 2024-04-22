@@ -1,4 +1,4 @@
-# Image Colorization with U-Net and GAN
+# Image Colorization
 
 ## Final model's output 
 
